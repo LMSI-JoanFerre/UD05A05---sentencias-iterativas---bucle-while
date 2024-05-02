@@ -13,3 +13,5 @@ function tablaDeMultiplicar(numero) {
 
 tablaDeMultiplicar(2);
 tablaDeMultiplicar(5);
+tablaDeMultiplicar('a')
+tablaDeMultiplicar("4")
